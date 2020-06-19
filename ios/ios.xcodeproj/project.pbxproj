@@ -17,6 +17,7 @@
 		18C43CFD249C7F010054830F /* iosTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43CFC249C7F010054830F /* iosTests.m */; };
 		18C43D08249C7F010054830F /* iosUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43D07249C7F010054830F /* iosUITests.m */; };
 		18C43D1A249C7FD70054830F /* ios61.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43D19249C7FD70054830F /* ios61.m */; };
+		18C43D1D249C80240054830F /* ios61001.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43D1C249C80240054830F /* ios61001.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		18C43D09249C7F010054830F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18C43D18249C7FD70054830F /* ios61.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ios61.h; sourceTree = "<group>"; };
 		18C43D19249C7FD70054830F /* ios61.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ios61.m; sourceTree = "<group>"; };
+		18C43D1B249C80240054830F /* ios61001.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ios61001.h; sourceTree = "<group>"; };
+		18C43D1C249C80240054830F /* ios61001.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ios61001.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				18C43CE7249C7EFF0054830F /* ViewController.m */,
 				18C43D18249C7FD70054830F /* ios61.h */,
 				18C43D19249C7FD70054830F /* ios61.m */,
+				18C43D1B249C80240054830F /* ios61001.h */,
+				18C43D1C249C80240054830F /* ios61001.m */,
 				18C43CE9249C7EFF0054830F /* Main.storyboard */,
 				18C43CEC249C7F010054830F /* Assets.xcassets */,
 				18C43CEE249C7F010054830F /* LaunchScreen.storyboard */,
@@ -272,6 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18C43D1D249C80240054830F /* ios61001.m in Sources */,
 				18C43CE8249C7EFF0054830F /* ViewController.m in Sources */,
 				18C43CE2249C7EFF0054830F /* AppDelegate.m in Sources */,
 				18C43CF3249C7F010054830F /* main.m in Sources */,
